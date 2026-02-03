@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/avicci-light.git](https://github.com/vietphan1995/avicci-light.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:avicci-light_project&body=left_your_idea)
+
 Avicci light is a hard ware helps warning signal for your vehicle, especially your bike, primitive vehicle, in which you can join traffic safety with light turn signal.
 
 Avicci light has many pieces in triangle arrow shape in hand size, these pieces can pair with a hub as your smart phone/smart glass, you can send turn signal from hub with correspond experience like touch on smart phone screen, tap or look back on smart glass.
@@ -13,6 +15,8 @@ Avicci light has many pieces in triangle arrow shape in hand size, these pieces 
 Avicci light pieces can be attached on any vehicle, it does not have limit in quantity to make sure you having enough turn signal from front, back, right left side of your vehicle.  Avicci light can be attached on fense/wall for navigate, warning signal purpose.
 
 ![image.png](image.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
